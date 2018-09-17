@@ -16,7 +16,7 @@ Stop bit:1bit
 Flow control:none  
 
 ### Control command
-
+';'セミコロンで区切ってコマンドを指定します。
 * RotateStage(degree,speed)  
   ステージを回転させる。  
   degree : 回転角度 正の数は時計回り、負の数は反時計回り。  

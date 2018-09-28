@@ -12,7 +12,7 @@
 // プリンタ取り出しモーターの場合5450
 // CDヘッド用モーターの場合8000
 // 回転角1.8度の場合6400
-const int stepsPerResolution1 = 6400;
+const int stepsPerResolution1 = 5450;
 const int stepsPerResolution2 = 6400;
 
 DRV8825 stageMotor(stepsPerResolution1, D1DIR, D1STP);

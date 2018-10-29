@@ -40,3 +40,8 @@ Flow control:none
   次のライブラリを使用しています。
 * laurb9/StepperDriver  
   https://github.com/laurb9/StepperDriver  
+
+;MoveCamera(-1000,50);
+;MoveCamera(-100,50);
+;MoveCamera(50,50);
+;RotateStage(-90,50);

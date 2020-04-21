@@ -26,7 +26,7 @@ Flow control:none
   speed : 回転速度 rpm 1～350くらいで指定。
   使用例  
   ;RotateStage(360,200); ←時計回りにすばやく1回転  
-  ;RotateStage(-90,50); ←反時計回りにすばやく1/4回転  
+  ;RotateStage(-90,50); ←反時計回りにゆっくりく1/4回転  
 
 * MoveCamera(step,speed)  
   カメラを上下させる。  
